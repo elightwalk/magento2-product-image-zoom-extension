@@ -1,0 +1,1 @@
+# magento2-product-image-zoom-extension
